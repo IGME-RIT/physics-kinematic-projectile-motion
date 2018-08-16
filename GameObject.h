@@ -24,7 +24,7 @@ You should have received a copy of the GNU General Public License
 along with this program.If not, see <http://www.gnu.org/licenses/>.
 
 Description:
-This is the skeleton for a basic 2D engine in OpenGL.
+Basic GameObject class with simple kinematics
 */
 
 
